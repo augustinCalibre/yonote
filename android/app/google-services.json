@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289388208789",
+    "project_id": "yonote-792da",
+    "storage_bucket": "yonote-792da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289388208789:android:2157cf6b767c75328ab19c",
+        "android_client_info": {
+          "package_name": "com.example.yonote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289388208789-pasj9k75eqc627fkjgk52m7bot885pei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw5DnDUaIIv2MZhmGvnmFgCpVnc8pQamc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289388208789-pasj9k75eqc627fkjgk52m7bot885pei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
